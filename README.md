@@ -1,4 +1,4 @@
-# corona-game
+# web quiz
 
 ## Project setup
 ```
