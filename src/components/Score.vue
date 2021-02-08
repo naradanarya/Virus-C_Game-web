@@ -4,10 +4,10 @@
     <p class="text-center score-title">{{ getFinalScore }}</p>
     <p class="text-center">Bagikan skor Anda di media sosial dan jangan lupa untuk menjaga jarak!</p>
     <social-sharing 
-      url="https://coronatalks.com/"
-      :title="`I've scored ${getFinalScore} on the COVID-19 test. What is your score?`"
-      :description="`I've scored ${getFinalScore} on the COVID-19 test. What is your score?`"
-      :quote="`I've scored ${getFinalScore} on the COVID-19 test. What is your score?`"
+      url="https://sansgameq.netlify.app/"
+      :title="`Saya dapat Score ${getFinalScore} di COVID-19 test. Berapa Score mu?`"
+      :description="`Saya dapat Score ${getFinalScore} di COVID-19 test. Berapa Score mu?`"
+      :quote="`Saya dapat Score ${getFinalScore} di COVID-19 test. Berapa Score mu??`"
       hashtags="covid19,corona,coronavirus,test"
       twitter-user="corona"
       inline-template
